@@ -33,7 +33,7 @@ Commands:
   start
 
 Options:
-  --session, -s  Session ID retrieved from your ticketswap.nl cookie  [required]
+  --session, -s  Session ID retrieved from your ticketswap cookie  [required]
   --amount, -n   The amount of tickets to reserve                   [default: 1]
   --help         Show help                                             [boolean]
 ```
