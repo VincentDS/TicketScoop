@@ -35,5 +35,6 @@ Commands:
 Options:
   --session, -s  Session ID retrieved from your ticketswap cookie  [required]
   --amount, -n   The amount of tickets to reserve                   [default: 1]
+  --maxprice, -m The maximum price of a single ticket               [optional]
   --help         Show help                                             [boolean]
 ```
